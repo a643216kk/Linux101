@@ -166,6 +166,7 @@ For the database, I use MongoDB.
 42
 00:04:08,410 --> 00:04:16,779
 MongoDB is schemaless, so you can change fields on models  very quickly, which is very important when you're pivoting  between extreme different ideas.
+MongoDB是无预定结构的，所以你可以在模型上快速改变领域，特别是在你困扰在一个困难的想法的时候。
 
 43
 00:04:16,779 --> 00:04:20,589
